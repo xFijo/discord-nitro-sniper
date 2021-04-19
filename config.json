@@ -1,0 +1,17 @@
+{
+    "token": "", // other account(s)
+    "on-alt": false,
+    "redeem-token": "", // tje account you want the nitro redeemed on
+    "notification": true,
+
+    "delay-enabled": false,
+    "delay": 5,
+
+    "nitro_sniper": true,
+    "giveaway_sniper": false, // keep false or account will get banned
+    "privnote_sniper": false // keep false or account will get banned
+}
+
+
+
+
