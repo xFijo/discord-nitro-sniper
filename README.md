@@ -1,1 +1,5 @@
-use on repl with a secret or env file if u dont have hacker plan
+Discord nitro sniper, can be used by running on your computer.
+
+• add your token to the config file
+• run bot.py
+• get nitro 
