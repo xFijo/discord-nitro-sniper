@@ -1,7 +1,7 @@
 {
     "token": "", // other account(s)
     "on-alt": false,
-    "redeem-token": "", // tje account you want the nitro redeemed on
+    "redeem-token": "", // the account you want the nitro redeemed on
     "notification": true,
 
     "delay-enabled": false,
